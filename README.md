@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aviral2965/leetcodesolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aviral2965/leetcodesolutions/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aviral2965/leetcodesolutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
