@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aviral2965/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aviral2965/leetcodesolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aviral2965/leetcodesolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aviral2965/leetcodesolutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -43,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aviral2965/leetcodesolutions/tree/master/0015-3sum) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aviral2965/leetcodesolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aviral2965/leetcodesolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
