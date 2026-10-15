@@ -120,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aviral2965/leetcodesolutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aviral2965/leetcodesolutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Aviral2965/leetcodesolutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
